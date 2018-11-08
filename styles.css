@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+img {
+    width: 400px;
+}
+p {
+    font-size: 20px;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+}
+.cheese {
+    font-family: 'Spicy Rice', cursive;
+}
+.car {
+    font-family: 'Black And White Picture', sans-serif;
+}
+.brush {
+    font-family: 'Anton', sans-serif;
+}
+.chair {
+    font-family: 'Lobster', cursive;
+}
+.computer {
+    font-family: 'Pacifico', cursive;
+}
+body {
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSbgRjZMvFGkJsuWhHGETGpGxCCboMkrt83dhQxzRo9TcUTUf);
+}
+.pen {
+    font-size: 30px;
+}
