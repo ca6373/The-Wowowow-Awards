@@ -7,7 +7,6 @@ img {
 p {
     font-size: 20px;
     color: white;
-    font-family: 'Abril Fatface', cursive;
 }
 .cheese {
     font-family: 'Spicy Rice', cursive;
@@ -30,4 +29,13 @@ body {
 }
 .pen {
     font-size: 30px;
+}
+.paper {
+    font-family: 'Roboto', sans-serif;
+}
+.mouse {
+    font-family: 'Kumar One Outline', cursive;
+}
+.hand {
+    font-family: 'Patrick Hand', cursive;
 }
